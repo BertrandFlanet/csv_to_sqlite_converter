@@ -5,19 +5,19 @@ We thus wanted to provide a hands-on solution for students to import a .csv of t
 As such, this code allows one to upload a .csv; normalize the column's names; and output a .db file for use in an application of choice.<br>
 <br>
 <br>
-- Usage<br>
+## Usage<br>
 .ipynb: Google Colab: Upload directly via the "File" menu or open from Google Drive<br>
 Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb file through the interface<br>
 <br>
-. If using another IDE, you will need the following libraries:<br>
-- os<br>
-- shutil<br>
-- pandas<br>
-- sqlite3<br>
-- sqlalchemy<br>
+If using another IDE, you will need the following libraries:<br>
+* os<br>
+* shutil<br>
+* pandas<br>
+* sqlite3<br>
+* sqlalchemy<br>
 <br>
 <br>
-- Project Structure<br>
+## Project Structure<br>
 <br>
 my_python_project/<br>
 |<br>
@@ -27,11 +27,11 @@ my_python_project/<br>
 └── README.md<br>
 <br>
 <br>
-- Acknowledgement<br>
+##Acknowledgement<br>
 Thanks to Mert Topcu and Thimo Wellner for the helpful advices and overlook.<br>
 <br>
 <br>
-- Contact<br>
+##Contact<br>
 Bertrand Flanet<br>
 E-mail: bertrand.flanet@gmail.com<br>
-linkedIn: https://www.linkedin.com/in/bertrand-flanet-67b1b2299/<br>
+linkedIn: www.linkedin.com/in/bertrandflanet<br>
