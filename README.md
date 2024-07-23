@@ -4,7 +4,6 @@ We thus wanted to provide a hands-on solution for students to import a .csv of t
 <br>
 As such, this code allows one to upload a .csv; normalize the column's names; and output a .db file for use in an application of choice.<br>
 <br>
-<br>
 
 ## Usage<br>
 .ipynb: Google Colab: Upload directly via the "File" menu or open from Google Drive<br>
@@ -16,7 +15,6 @@ If using another IDE, you will need the following libraries:<br>
 * pandas<br>
 * sqlite3<br>
 * sqlalchemy<br>
-<br>
 <br>
 
 ## Project Structure<br>
@@ -30,11 +28,9 @@ If using another IDE, you will need the following libraries:<br>
 └── README.md<br>
 
 <br>
-<br>
 
 ## Acknowledgement<br>
 Thanks to Mert Topcu and Thimo Wellner for the helpful advices and overlook.<br>
-<br>
 <br>
 
 ## Contact<br>
