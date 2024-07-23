@@ -32,12 +32,12 @@ Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb fi
 
 - Project Structure
 
-my_python_project/
-|
-├── `notebooks/`
-│   └── analysis.ipynb
-│
-└── README.md
+my_python_project/<br>
+|<br>
+├── `notebooks/`<br>
+│   └── analysis.ipynb<br>
+│<br>
+└── README.md<br>
 
 
 - Acknowledgement
