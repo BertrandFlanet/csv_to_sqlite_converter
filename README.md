@@ -20,12 +20,14 @@ If using another IDE, you will need the following libraries:<br>
 ## Project Structure<br>
 <br>
 
-`my_python_project/`<br>
-|<br>
-├── `notebooks/`<br>
-│   └── analysis.ipynb<br>
-│<br>
-└── README.md<br>
+```
+my_python_project/
+|
+├── notebooks/
+│   └── analysis.ipynb
+│
+└── README.md
+```
 
 <br>
 
